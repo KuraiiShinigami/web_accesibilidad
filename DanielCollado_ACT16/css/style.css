@@ -1,0 +1,13 @@
+body{
+    background-color: F4F4F4;
+}
+.sombra{
+    box-shadow: 0 0 5px rgba(0, 0, 0, 0.5);
+}
+p{
+    margin:5px;
+    /* margin-left: 50px; */
+}
+.comida p{
+    margin: 10px 35px 10px 35px;
+}
